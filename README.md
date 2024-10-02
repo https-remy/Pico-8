@@ -5,7 +5,7 @@
 ![picture of the carts of the game](enigma.p8.png)
 
 
-Welcome in **Enigma** a game made in **Lua** on **Pico 8** by three developper students : @ArthurMch, @feldlucas, and @https-remy at _**Ada Tech School**_.
+Welcome in **Enigma** a game made in **Lua** on **Pico 8** by three developper students : @ArthurMch, @feldlucas, and @remyShift at _**Ada Tech School**_.
 
 ## Tuto
 
